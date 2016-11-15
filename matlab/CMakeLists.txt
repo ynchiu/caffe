@@ -69,5 +69,3 @@ endif()
 # ---[ Install
 file(GLOB mfiles caffe/*.m)
 install(FILES ${mfiles} ${Matlab_caffe_mex} DESTINATION matlab)
-
-asdfasdfa
